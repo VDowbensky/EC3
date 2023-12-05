@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project name="AN127SW" kitCompatibility="com.silabs.kit.si8051.c8051f380dk" partCompatibility="com.silabs.mcu.si8051.c8051f380_g" sdkCompatibility="com.silabs.sdk.si8051.sls:[3.0.0-4.0.0)" contentRoot=".">
+  <property key="category" value="AN|AN127"/>
+  <folder name="inc" uri="inc" includeAllFiles="true" includeAllFolders="true"/>
+  <folder name="src" uri="src" includeAllFiles="true" includeAllFolders="true"/>
+  <includePath languageCompatibility="c" uri="studio:/project/inc/"/>
+</project>
